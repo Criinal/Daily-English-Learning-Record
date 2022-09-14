@@ -1,1 +1,22 @@
 # Daily-English-Learning-Record
+
+- 2022/09/14
+  - 剑桥雅思核心词汇精讲精炼 unit21 Language Building 1
+    - minute 两种意思 两种读音 分:'min·ute 微小的:mi·nute(mi'nute)
+    - 查阅单词的时候，可以把重点放在以下几个方面：词性、发音、同根词、例句、是否是俚语/禁忌、搭配
+    - 一些词性缩写 
+      - v.: verb
+      - n.: noun
+      - adj.: adjective 
+      - adv.: adverb 
+      - pl.: plural 
+      - prep.: preposition
+    - 一些和字典有关的词汇
+      - mono·lingual -> 单语言的
+      - bi·lingual -> 双语的
+      - synonym -> 同义词
+      - antonym -> 反义词
+      - pho'nology -> sound and pronunciation of words
+      - ety'mology -> origin of words
+      - the'saurus -> 分类词典 containing synonyms and antonyms
+      - corpus -> a large amount of written material organised to show how language works
