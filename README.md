@@ -20,3 +20,8 @@
       - ety'mology -> origin of words
       - the'saurus -> 分类词典 containing synonyms and antonyms
       - corpus -> a large amount of written material organised to show how language works
+- 2022/09/27
+  - 剑桥雅思中级教程练习册 单词 Unit5
+    - harness v. -> control and use sth. (e.g. harness energy)
+    - sceptical adj. -> doubting that sth. is true or useful
+    - yield v. -> to produce or provide sth.
